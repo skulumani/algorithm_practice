@@ -51,16 +51,13 @@ def bin_search(arr, low, high, key):
         mid = (high + low) // 2
 
         # compare the midpoint to the key
-        if key == arr[mid]:
-            return mid
-        elif key > arr[mid]:
+        if key >= arr[mid]:
             low = mid
-        elif key < arr[mid]:
+        else:
             high = mid
        
         count = count + 1
 
-    pdb.set_trace()
     # now check the endpoints
     if key == arr[low]:
         return low
