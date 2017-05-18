@@ -1,6 +1,6 @@
 ## Coding practice
 
-My attempt at trying to learn from [GeeksforGeeks](http://www.geeksforgeeks.com) and [Hackerrank](https://www.hackerrank.com/dashboard)
+My attempt at trying to learn from [GeeksforGeeks](http://www.geeksforgeeks.org) and [Hackerrank](https://www.hackerrank.com/dashboard)
 
 ## Things to look at
 
